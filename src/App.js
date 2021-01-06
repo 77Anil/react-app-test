@@ -6,7 +6,8 @@ function App() {
       <header className="App-header">
         
         <p>
-         Welcome TO Reactapp
+         Welcome .. 
+         Will Launch main site Sooon.....
         </p>
        
       </header>
